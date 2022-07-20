@@ -1,9 +1,8 @@
 
-# Project name or Logo
-![오아시스로고](https://user-images.githubusercontent.com/64114699/178138225-3a1e530d-f4e6-4c02-a16f-cadb8d164fc6.png)
+# 청소년 아이디어 공유 및 팀 구인 플랫폼 와작!
+![와작!로고](https://github.com/2022-oasis-hackathon/oasis-ssib-a-mugung/blob/main/wazaklogo.png?raw=true)
 
 
-프로젝트명 또는 프로젝트 로고 이미지 **(택1)**
 
 ## 프로잭트 소개
 - 청년 팀 구인 플랫폼은 엄청 많습니다. 비긴메이트, 잡코리아 등 청년들이 창업을 목적으로 전문 디자이너, 개발자, 기획자를 구하고 있지만 청소년을 위한 플랫폼은 없습니다. 그래서 청소년들이 팀을 맺을 수 있는 플랫폼을 구상했습니다.
